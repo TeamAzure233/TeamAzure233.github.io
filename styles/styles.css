@@ -23,8 +23,8 @@
   display: flex;
   width: 1000px;
   text-align: center;
-  margin: auto;
-  padding: auto;
+  margin: 20px auto auto auto;
+  padding: auto 20px auto 20px;
   background-color: rgba(190, 190, 190, 0.24);
 }
 .members {

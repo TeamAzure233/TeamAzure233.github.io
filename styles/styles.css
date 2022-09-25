@@ -23,7 +23,7 @@
   display: flex;
   width: 1000px;
   text-align: center;
-  margin: 20px 20px 20px 432px;
+  margin: auto;
   padding: 5px 20px 5px 20px;
   background-color: rgba(190, 190, 190, 0.24);
 }

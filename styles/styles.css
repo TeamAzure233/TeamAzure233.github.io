@@ -38,3 +38,13 @@
   padding: 10px 20px 20px 20px;
   background-color: rgba(190, 190, 190, 0.24);
 }
+.works {
+  line-height: 50px;
+  font-size: 20px;
+  display: block;
+  width: 1000px;
+  text-align: left;
+  margin: auto;
+  padding: 10px 20px 20px 20px;
+  background-color: rgba(190, 190, 190, 0.24);
+}
